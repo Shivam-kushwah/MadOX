@@ -46,9 +46,11 @@ You can find the dataset in the Repository itself.
 
 ## 📸 Screenshots
 
-| Welcome Screen | Prediction Result |
-| :------------: | :-----------------: |
-| ![Welcome Screen](./.3%20OUTPUT/Screenshot1.jpg) | ![Prediction Result](./.3%20OUTPUT/Screenshot2.jpg) |
+| Prediction Result |
+
+![Prediction Result](./.3%20OUTPUT/Screenshot2.jpg)
+
+![Prediction Result](./.3%20OUTPUT/Screenshot3.jpg)
 
 ---
 
