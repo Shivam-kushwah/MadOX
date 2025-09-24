@@ -1,0 +1,36 @@
+Crappy DATA Set
+
+Jupyter Scratch
+	-TRAIN
+	-TEST
+	-VALIDATION
+	-Model_Test
+	-Model_Training.Jupyter
+
+V5
+	CORN
+		-Healthy
+		-Gray Leaf
+		-Rust
+		-Northern Leaf
+	Potato
+		-Healthy
+		-Late Blight
+		-Early Blight
+	Rice
+		-Healthy
+		-Leaf Blast
+		-Neck Blast
+		-Brown Spot
+	Sugarcane 
+		-Bacteria Bright
+		-Red Rot
+		-Healthy
+	Wheat
+		-Healthy
+		-Brown Rust
+		-Yellow Rust
+
+V13
+
+	
